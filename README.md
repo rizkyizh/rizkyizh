@@ -17,7 +17,7 @@
 - 😄 Pronouns: he him his
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ka&layout=compact&hide=maxscript&theme=transparent)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ka&layout=compact&langs_count=10&theme=transparent)]()
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
