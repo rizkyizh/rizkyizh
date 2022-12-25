@@ -19,9 +19,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ka&layout=compact&langs_count=10&theme=transparent)]()
 ---
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 ---
 [![codewars](https://www.codewars.com/users/moeka/badges/small)](https://www.codewars.com/users/moeka)
+
+
 ---
 ![snake gif](https://github.com/moe-ka/moe-ka/blob/output/github-contribution-grid-snake.svg)
