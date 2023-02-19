@@ -12,7 +12,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-Hello, my friends! In this opportunity, I want to introduce myself. My name is Rizki Izzul Haq, I come from Indonesia. I have a high interest in tech world. I hope I can become a software developer or become a full stack web developer and produce extraordinary works. That’s all from me. Thank you for your attention.
+Hello, my friends! In this opportunity, I want to introduce myself. My name is Rizki Izzul Haq, I come from Indonesia. I have a high interest in tech world. I hope I can become a developer and produce extraordinary works. That’s all from me. Thank you for your attention.
 
 <!-- - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: by contact me
