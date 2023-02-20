@@ -26,19 +26,19 @@ Hello, my friends! In this opportunity, I want to introduce myself. My name is R
   <a href="" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br><br>
   <a href="https://www.codewars.com/users/moeka" target="_blank"><img alt="telegram" src="https://www.codewars.com/users/moeka/badges/small"></a><br><br>
-  <img alt="telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ka&layout=compact&langs_count=10&theme=transparent">
+  <img alt="telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyizh&layout=compact&langs_count=10&theme=transparent">
 </p>
 
 
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![codewars](https://www.codewars.com/users/moeka/badges/small)](https://www.codewars.com/users/moeka) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ka&layout=compact&langs_count=10&theme=transparent)]() -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyizh&layout=compact&langs_count=10&theme=transparent)]() -->
 
 
 
 ---
 
-<!-- ![snake gif](https://github.com/moe-ka/moe-ka/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg) -->
 <p align="center">
-    <img src="https://github.com/moe-ka/moe-ka/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
+    <img src="https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
 </p>
