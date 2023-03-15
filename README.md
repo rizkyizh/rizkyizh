@@ -26,7 +26,7 @@ Hello, my friends! In this opportunity, I want to introduce myself. My name is R
   <a href="" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br><br>
   <a href="https://www.codewars.com/users/moeka" target="_blank"><img alt="telegram" src="https://www.codewars.com/users/moeka/badges/small"></a><br><br>
-  <img alt="telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyizh&layout=compact&langs_count=10&theme=transparent">
+  <img alt="telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyizh&layout=compact&theme=transparent">
 </p>
 
 
