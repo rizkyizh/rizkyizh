@@ -38,6 +38,9 @@ Hello, my friends! In this opportunity, I want to introduce myself. My name is R
 ---
 
 <!-- ![snake gif](https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg) -->
+<!--
 <p align="center">
     <img src="https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
 </p>
+
+-->
