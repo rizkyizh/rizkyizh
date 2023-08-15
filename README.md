@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="https://iili.io/bVEujt.png" width="100%" alt="banner">
+    <img src="https://iili.io/HDUVuhx.png" width="100%" alt="banner">
 </p>
-<!-- ![banner](https://iili.io/bVEujt.png) -->
 
-### Hi there 👋
+
+
+<!-- ### Hi there 👋 -->
 
 <!-- **moe-ka/moe-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -12,12 +13,12 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-Hello, my friends! In this opportunity, I want to introduce myself. My name is Rizki Izzul Haq, I come from Indonesia. I have a high interest in tech world. I hope I can become a developer and produce extraordinary works. That’s all from me. Thank you for your attention.
+Hello, my friends! In this opportunity, I want to introduce myself. My name is Rizki Izzul Haq, I come from Surakarta - Indonesia. I have a high interest in tech world. I hope I can become a developer and produce extraordinary works. That’s all from me. Thank you for your attention.
 
-<!-- - 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: by contact me
 - ⚡ Fun fact: I wanna be main character
-- 😄 Pronouns: he him his -->
+- 😄 Pronouns: he him his
 
 ---
 
@@ -44,3 +45,14 @@ Hello, my friends! In this opportunity, I want to introduce myself. My name is R
 </p>
 
 -->
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/github-contribution-grid-snake-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/github-contribution-grid-snake.svg" width="100%">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+</div>
+
+
+
+
