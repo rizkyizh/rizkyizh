@@ -13,7 +13,7 @@
 
 Hello, my friends! In this opportunity, I want to introduce myself. My name is Rizki Izzul Haq, I come from Surakarta - Indonesia. I have a high interest in tech world. I hope I can become a developer and produce extraordinary works. That’s all from me. Thank you for your attention.
 
-- 🌱 I’m currently learning php & Kotlin
+- 🌱 I’m currently learning Go & Kotlin
 - 📫 How to reach me: by contact me
 - ⚡ Fun fact: I wanna be main character
 - 😄 Pronouns: he him his
