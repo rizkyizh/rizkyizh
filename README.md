@@ -85,3 +85,10 @@ Hello, my friends! In this opportunity, I want to introduce myself. My name is R
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/github-contribution-grid-snake.svg" width="100%">
     </picture>
 </div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkyizh/rizkyizh/output/pacman-contribution-graph.svg">
+</picture>
+</div>
